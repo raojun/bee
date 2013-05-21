@@ -1,0 +1,8 @@
+Debug/
+ipch/
+/*.sdf
+/bee/bee.vcxproj
+/bee/bee.vcxproj.filters
+/bee/bee.vcxproj.user
+/bee.suo
+/bee.opensdf
